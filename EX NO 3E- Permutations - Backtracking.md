@@ -1,6 +1,6 @@
 
 # EX 3E Generate Permutations using Backtracking  Approach.
-## DATE:
+## DATE:  20-08-2026 
 ## AIM:
 To write a Java program to for given constraints.
 Given an array nums of distinct integers, return all the possible Permutation. You can return the answer in any order.
@@ -20,7 +20,12 @@ For example:
 5.Backtrack by removing the last element and continue until all permutations are generated.
   
 
-## Program:
+## Program :
+```
+Developed by : ANUBHARATHI SS
+Register No : 212223040017
+
+```
 ```
 import java.util.*;
 
